@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+	.st0{fill:#D18A2C;}
+
+	.st1{fill:#FFFFFF;}
+
+
+#circle:hover
+{
+	fill: #843141;
+	stroke: white;}
+	
+@media screen and (max-width: 150px) {
+		#circleCentre {
+		display: none;}
+}
+		
+			

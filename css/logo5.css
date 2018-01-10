@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+	.st0{fill:#D18A2C;}
+
+	.st1{fill:#F1B150;}
+
+	.st2{fill:#F0EFEF;}
+
+	.st3{fill:#252E3B;}
+
+	.st4{fill:#E48625;}
+
+
+#circle:hover
+{
+	fill: #843141;
+	stroke: white;}
+@media screen and (max-width: 150px) {
+		#dots {
+		display: none;
+		}
+		
+}

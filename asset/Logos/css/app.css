@@ -1,0 +1,47 @@
+
+
+#photoContainer {
+  margin-top: 10px;
+
+  background-size: cover;
+  padding-top: 250px;
+  background-repeat: no-repeat;
+  height: 850px; }
+  #photoContainer #photos {
+    line-height: 15;
+    -webkit-column-count: 5;
+    -webkit-column-gap: 20px;
+    -moz-column-count: 5;
+    -moz-column-gap: 20px;
+    column-count: 5;
+    column-gap: 20px;
+    height: 600px;
+    overflow-y: scroll; }
+  #photoContainer #lightbox {
+    margin-top: -775px;
+    margin-left: 25%;
+    width: 50%;
+    position: absolute;
+    z-index: 5;
+    display: none; }
+    #photoContainer #lightbox #lightBoxImage {
+
+
+      width: 100%; }
+
+.closebtn {
+  position: absolute;
+  top: -130px;
+  right: -80px;
+  font-size: 3em;
+  background:  }
+
+#overlay {
+  background: linear-gradient(to top, grey ,white );
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 4;
+  display: none; }

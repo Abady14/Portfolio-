@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.st0{fill:#D18A2C;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#F1B150;}
+	.st3{fill:#989798;}
+	.st4{fill:#882B8E;}
+	
+	
+	#circle:hover
+{
+	fill: #843141;
+	stroke: white;}
+@media screen and (max-width: 150px) {
+		#AE {
+		display: none;
+		}
+		
+}
+@media only screen and (max-width: 768px) {
+		#AI { margin-left: -8em;
+		}
+		
+}

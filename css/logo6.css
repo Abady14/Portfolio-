@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+	.st0{fill:#D18A2C;}
+
+	.st1{fill:#FDFEFE;}
+
+	.st2{fill:#C32529;}
+
+	.st3{fill:#989898;}
+
+	.st4{fill:#F3F7F8;}
+
+	.st5{fill:#B5B5B5;}
+
+	.st6{fill:#D1DBD2;}
+
+
+
+#circle:hover
+{
+	fill: #843141;
+	stroke: white;}
+	@media screen and (max-width: 150px) {
+		#cd {
+		display: none;
+		}
+		
+}
+

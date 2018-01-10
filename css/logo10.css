@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+	.st0{fill:#D18A2C;}
+
+	.st1{fill:#FFFFFF;}
+
+	.st2{fill:#2C3949;}
+
+	.st3{fill:#ECEBEF;}
+
+	.st4{fill:#242C3D;}
+
+	.st5{fill:#E05445;}
+
+	.st6{fill:#C2C3C6;}
+
+	.st7{fill:#F2B150;}
+
+	.st8{fill:#869EB1;}
+
+
+#circle:hover
+{
+	fill: #843141;
+	stroke: white;}
+	
+
